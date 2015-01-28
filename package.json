@@ -1,6 +1,6 @@
 {
   "name": "letters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A sequential letter handler",
   "main": "lib/letters.js",
   "scripts": {
