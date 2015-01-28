@@ -2,7 +2,7 @@
   "name": "letters",
   "version": "0.0.1",
   "description": "A sequential letter handler",
-  "main": "lib/letter.js",
+  "main": "lib/letters.js",
   "scripts": {
     "test": "grunt"
   },
